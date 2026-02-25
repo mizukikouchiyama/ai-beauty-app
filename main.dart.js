@@ -39925,7 +39925,7 @@ return A.R(m.F8(),$async$pA)
 case 6:n=a2
 a=n
 l=B.kv.gD8().c8(a)
-k=A.hn("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDMdvY6zTCkXeRxoFrMkHRjUqBmV8hEl9o")
+k=A.hn("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBiKiAYjmvFR0K-iuA5nbWY0plTzeecJZY")
 a=t.N
 j=B.bV.PL(A.aa(["contents",A.c([A.aa(["parts",A.c([A.aa(["inline_data",A.aa(["mime_type","image/jpeg","data",l],a,a)],a,t.GU),A.aa(["text",'\u3042\u306a\u305f\u306f\u30d7\u30ed\u306e\u30d3\u30e5\u30fc\u30c6\u30a3\u30fc\u30a2\u30ca\u30ea\u30b9\u30c8\u3067\u3059\u3002\u3053\u306e\u753b\u50cf\u306e\u4eba\u7269\u3092\u5206\u6790\u3057\u3001\u4ee5\u4e0b\u306eJSON\u5f62\u5f0f\u306e\u307f\u3067\u56de\u7b54\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u4f59\u8a08\u306a\u8aac\u660e\u30fb\u30de\u30fc\u30af\u30c0\u30a6\u30f3\u30fb\u30b3\u30fc\u30c9\u30d6\u30ed\u30c3\u30af\u306f\u4e0d\u8981\u3067\u3059\u3002{"faceType": "\u30ad\u30e5\u30fc\u30c8\u30fb\u30d5\u30ec\u30c3\u30b7\u30e5\u30fb\u30d5\u30a7\u30df\u30cb\u30f3\u30fb\u30a8\u30ec\u30ac\u30f3\u30c8\u306e\u3046\u3061\u6700\u3082\u8fd1\u3044\u30bf\u30a4\u30d7\u540d\u306e\u307f","personalColor": "\u30b9\u30d7\u30ea\u30f3\u30b0\u30fb\u30b5\u30de\u30fc\u30fb\u30aa\u30fc\u30bf\u30e0\u30fb\u30a6\u30a3\u30f3\u30bf\u30fc\u306e\u3046\u3061\u6700\u3082\u8fd1\u3044\u30b7\u30fc\u30ba\u30f3\u540d\u306e\u307f","fashionAdvice": "80\u5b57\u7a0b\u5ea6\u306e\u30a2\u30c9\u30d0\u30a4\u30b9","makeupAdvice": "80\u5b57\u7a0b\u5ea6\u306e\u30a2\u30c9\u30d0\u30a4\u30b9"}'],a,a)],t.Mq)],a,t.JD)],t.lU)],a,t.iU),null)
 s=7
